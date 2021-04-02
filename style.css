@@ -1,0 +1,12 @@
+h1{color:red}
+*{border:solid}
+
+
+.header{background-color:green;
+display: flex;
+justify-content: space-between;}
+
+.main{background-color:yellow;
+display:flex;
+flex-wrap:wrap;}
+
